@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/serialplayer/static/css/main.fd8015cc.chunk.css",
-    "main.js": "/serialplayer/static/js/main.f51de875.chunk.js",
-    "main.js.map": "/serialplayer/static/js/main.f51de875.chunk.js.map",
+    "main.js": "/serialplayer/static/js/main.c6cd0c90.chunk.js",
+    "main.js.map": "/serialplayer/static/js/main.c6cd0c90.chunk.js.map",
     "runtime-main.js": "/serialplayer/static/js/runtime-main.6743e7f8.js",
     "runtime-main.js.map": "/serialplayer/static/js/runtime-main.6743e7f8.js.map",
     "static/js/2.4c27f0f6.chunk.js": "/serialplayer/static/js/2.4c27f0f6.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6743e7f8.js",
     "static/js/2.4c27f0f6.chunk.js",
     "static/css/main.fd8015cc.chunk.css",
-    "static/js/main.f51de875.chunk.js"
+    "static/js/main.c6cd0c90.chunk.js"
   ]
 }
